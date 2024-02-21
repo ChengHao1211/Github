@@ -213,7 +213,7 @@ int main() {
 		switch (opt) {
 			case 0:
         		system("cls");
-        		cout<<"\n\n\n\t\t\tThank you for using CMS."<<endl<<endl;
+        		cout<<"\n\n\n\t\t\tThank you for using CONTACT MANAGEMENT SYSTEM."<<endl<<endl;
         		exit(0);
         		break;
 
